@@ -8,7 +8,7 @@ To run this in your Linux terminal whenever a download is detected, do the follo
 Step 1: Installing `inotify-tools` (for monitoring Downloads folder changes)
   
 //Run the following code in your terminal
-  
+
 sudo apt-get update
 sudo apt-get install inotify-tools
 
